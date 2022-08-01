@@ -1,5 +1,7 @@
 # Do JSON with Jackson 中文版
 
+基于《Do JSON with Jackson eBook》翻译和修改，同时修正了原书中代码中的一些小错误。
+
 ![Do JSON with Jackson eBook](https://www.baeldung.com/wp-content/uploads/2017/11/BookCover-Jackson.png)
 
 你可以点击以下链接获取原版：
