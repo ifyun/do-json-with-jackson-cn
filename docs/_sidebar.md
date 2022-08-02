@@ -8,6 +8,7 @@
   * [7.Jackson 自定义注解](chapter-1/7-自定义注解.md)
   * [8.Jackson MixIn 注解](chapter-1/8-mixin注解.md)
   * [9.Jackson 注解禁用](chapter-1/9-禁用注解.md)
+  * [10.总结](chapter-1/10-总结.md)
 * **Jackson ObjectMapper 介绍** 
   * [1.概述](chapter-2/1-概述.md)
   * [2.使用 ObjectMapper 读写](chapter-2/2-使用ObjectMapper读写.md)

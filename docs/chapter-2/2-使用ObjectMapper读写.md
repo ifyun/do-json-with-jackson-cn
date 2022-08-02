@@ -32,8 +32,7 @@ objectMapper.writeValue(new File("target/car.json"), car);
 {"color":"yellow","type":"renault"}
 ```
 
-`ObjectMapper` 的 `writeValueAsString` 和 `writeValueAsBytes` 方法从 Java 对象生成一个 JSON，
-并以字符串或字节数组的形式返回生成的 JSON：
+`ObjectMapper` 的 `writeValueAsString` 和 `writeValueAsBytes` 方法从 Java 对象生成一个 JSON，并以字符串或字节数组的形式返回生成的 JSON：
 
 ```java
 String carAsString = objectMapper.writeValueAsString(car);
