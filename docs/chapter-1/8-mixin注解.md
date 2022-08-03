@@ -2,7 +2,7 @@
 
 接下来让我们看看如何使用 Jackson MixIn 注解。
 
-让我么使用 MixIn 注解，例如忽略 `User` 类型的属性：
+让我们使用 MixIn 注解，例如忽略 `User` 类型的属性：
 
 ```java
 public class Item {
