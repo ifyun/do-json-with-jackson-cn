@@ -13,3 +13,7 @@
   * [1.概述](chapter-2/1-概述.md)
   * [2.使用 ObjectMapper 读写](chapter-2/2-使用ObjectMapper读写.md)
   * [3.高级特性](chapter-2/3-高级特性.md)
+  * [4.总结](chapter-2/4-总结.md)
+* **Jackson 忽略属性**
+  * [1.概述](chapter-3/1-概述.md)
+  * [2.类级别忽略字段](chapter-3/2-类级别忽略字段.md)
